@@ -35,9 +35,12 @@ const About = () => {
 
     <section className="about-text">
       <p>
-        I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media.
-        I enjoy
-        turning complex problems into simple, beautiful and intuitive designs.
+      I am an enthusiastic Junior Frontend Developer eager to contribute to dynamic projects and expand technical skills. 
+      Proficient in HTML, CSS, and JavaScript with a solid understanding of frontend development principles.
+
+      Familiar with popular frameworks like React and Vue.js. 
+      Strong problem-solving skills and a quick learner with a passion for creating engaging user interfaces. 
+      Seeking opportunities to grow and collaborate in a supportive team environment.
       </p>
 
       <p>
