@@ -1,5 +1,8 @@
 import { GiCalendar, GiClawSlashes, GiMailbox, GiMayanPyramid, GiPhone } from "react-icons/gi";
 
+
+
+
 const Aside = () => {
   return (
     <aside className="sidebar">
@@ -111,6 +114,8 @@ const Aside = () => {
               </a>
             </li>
           </ul>
+
+          
         </div>
       </aside>
   )

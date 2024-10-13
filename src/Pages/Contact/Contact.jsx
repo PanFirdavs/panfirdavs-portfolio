@@ -1,4 +1,7 @@
 
+import { FaGithub, FaTelegram, FaLinkedin } from "react-icons/fa";
+import { FaGitlab } from "react-icons/fa6";
+
 
 const Contact = () => {
     return (
@@ -15,6 +18,8 @@ const Contact = () => {
               width="400" height="300" loading="lazy" title="Google Map"></iframe>
           </figure>
         </section>
+
+        
   
         <section className="contact-form">
   
@@ -37,6 +42,32 @@ const Contact = () => {
   
           </form>
   
+        </section>
+
+
+        <section>
+
+          <div className="flex justify-center gap-5 mt-10">
+            <a href="https://github.com/PanFirdavs">
+              <FaGithub  className="fill-white text-[36px] cursor-pointer hover:fill-[#1d4ed8]"/>
+            </a>
+          
+            <a href="https://gitlab.com/PanFirdavs">
+              <FaGitlab  className="fill-white text-[36px] cursor-pointer" />
+            </a>   
+          
+            <a href="https://t.me/firdavs_developer">
+              <FaTelegram className="fill-white text-[36px] cursor-pointer" />
+            </a>
+
+            <a href="https://www.linkedin.com/in/firdavs-panoyev">
+              <FaLinkedin className="fill-white text-[36px] cursor-pointer"/>
+            </a>
+
+
+
+          </div>
+
         </section>
   
       </section>
