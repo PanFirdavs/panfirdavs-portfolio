@@ -49,19 +49,19 @@ const Contact = () => {
 
           <div className="flex justify-center gap-5 mt-10">
             <a href="https://github.com/PanFirdavs">
-              <FaGithub  className="fill-white text-[36px] cursor-pointer hover:fill-[#1d4ed8]"/>
+              <FaGithub  className="fill-white text-[36px] cursor-pointer hover:fill-[#f59e0b] transition-all duration-300 hover:scale-110"/>
             </a>
           
             <a href="https://gitlab.com/PanFirdavs">
-              <FaGitlab  className="fill-white text-[36px] cursor-pointer" />
+              <FaGitlab  className="fill-white text-[36px] cursor-pointer hover:fill-[#f59e0b] transition-all duration-300 hover:scale-110" />
             </a>   
           
             <a href="https://t.me/firdavs_developer">
-              <FaTelegram className="fill-white text-[36px] cursor-pointer" />
+              <FaTelegram className="fill-white text-[36px] cursor-pointer hover:fill-[#f59e0b] transition-all duration-300 hover:scale-110" />
             </a>
 
             <a href="https://www.linkedin.com/in/firdavs-panoyev">
-              <FaLinkedin className="fill-white text-[36px] cursor-pointer"/>
+              <FaLinkedin className="fill-white text-[36px] cursor-pointer hover:fill-[#f59e0b] transition-all duration-300 hover:scale-110"/>
             </a>
 
 
