@@ -1,58 +1,97 @@
 [
+  {
+    "id": 1,
+    "title": "Saidoff",
+    "category": "Web development",
+    "image": "images/port_6.png",
+    "link": "https://www.saidoff.uz/"
+  },
+  {
+    "id": 12,
+    "title": "TimeApply",
+    "category": "Web development",
+    "image": "images/port_12.png",
+    "link": "https://register.timeedu.uz/"
+  },
+  {
+    "id": 5,
+    "title": "UzWEB.",
+    "category": "Web design",
+    "image": "images/port_5.png",
+    "link": "https://uzweb.vercel.app/"
+  },
+
+  {
+    "id": 9,
+    "title": "Dashboard",
+    "category": "Web development",
+    "image": "images/port_9.png",
+    "link": "https://react-dashboard-gamma-three.vercel.app/"
+  },
+
+  {
+    "id": 13,
+    "title": "Saidoff Academy",
+    "category": "Web development",
+    "image": "images/port_13.png",
+    "link": "https://saidoff-academy-jet.vercel.app/"
+  },
     {
-      "id": 1,
-      "title": "Finance",
+      "id": 6,
+      "title": "Nique",
       "category": "Web development",
-      "image": "images/project-1.jpg"
+      "image": "images/port_1.png",
+      "link": "https://nique-menu.vercel.app/"
     },
     {
       "id": 2,
-      "title": "Orizon",
+      "title": "FlavorVerse",
       "category": "Web development",
-      "image": "images/project-2.png"
+      "image": "images/port_2.png",
+      "link": "https://parfume-web.vercel.app/"
     },
     {
       "id": 3,
-      "title": "Fundo",
+      "title": "Ventix",
       "category": "Web design",
-      "image": "images/project-3.jpg"
+      "image": "images/port_3.png",
+      "link": "https://new-portfolio-zeta-flax.vercel.app/"
       
     },
     {
       "id": 4,
-      "title": "Brawlhalla",
+      "title": "ChereWater",
       "category": "Applications",
-      "image": "images/project-3.jpg"
-    },
-    {
-      "id": 5,
-      "title": "DSM.",
-      "category": "Web design",
-      "image": "images/project-5.png"
-    },
-    {
-      "id": 6,
-      "title": "MetaSpark",
-      "category": "Web design",
-      "image": "images/project-6.png"
+      "image": "images/port_4.png",
+      "link": "https://chere-topaz.vercel.app/"
     },
     {
       "id": 7,
-      "title": "Summary",
+      "title": "MyBlog",
       "category": "Web development",
-      "image": "images/project-7.png"
+      "image": "images/port_7.png",
+      "link": "https://my-blog-seven-liard.vercel.app/"
     },
     {
       "id": 8,
-      "title": "Task Manager",
+      "title": "Coursean",
       "category": "Applications",
-      "image": "images/project-8.jpg"
+      "image": "images/port_8.png",
+      "link": "https://udemy-clone-xi-peach.vercel.app/"
     },
     {
-      "id": 9,
-      "title": "Arrival",
+      "id": 10,
+      "title": "WeekAway",
       "category": "Web development",
-      "image": "images/project-9.png"
+      "image": "images/port_10.png",
+      "link": "https://travel-tailwind-nine.vercel.app/"
+    },
+    {
+      "id": 11,
+      "title": "Experiences",
+      "category": "Web development",
+      "image": "images/port_11.png",
+      "link": "https://tailwind-trip-website.vercel.app/"
     }
   ]
   

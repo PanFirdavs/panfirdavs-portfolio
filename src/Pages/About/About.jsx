@@ -109,7 +109,7 @@ const About = () => {
 
       <h3 className="h3 clients-title">Clients</h3>
 
-      <ul className="clients-list has-scrollbar">
+      <ul className="clients-list has-scrollbar gap-5">
 
         <li className="clients-item">
           <a href="#">
